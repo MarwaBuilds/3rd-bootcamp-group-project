@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
-  <title id="title">16:10 cover placeholder</title>
-  <desc id="desc">Neutral placeholder showing intended image behavior.</desc>
-  <rect width="1600" height="1000" fill="#e9e9e5"/>
-  <path d="M0 760 360 420l240 220 260-300 740 620H0Z" fill="#d3d3cd"/>
-  <circle cx="1120" cy="300" r="130" fill="#c2c2bc"/>
-  <text x="800" y="930" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" fill="#333">16:10 / COVER</text>
-</svg>
